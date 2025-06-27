@@ -1,0 +1,31 @@
+D:\Programas\Visual Studio\Proyectos\C\VentaMayorista\bin\Debug\VentaMayorista.exe.config
+D:\Programas\Visual Studio\Proyectos\C\VentaMayorista\bin\Debug\VentaMayorista.exe
+D:\Programas\Visual Studio\Proyectos\C\VentaMayorista\bin\Debug\VentaMayorista.pdb
+D:\Programas\Visual Studio\Proyectos\C\VentaMayorista\obj\Debug\VentaMayorista.csproj.AssemblyReference.cache
+D:\Programas\Visual Studio\Proyectos\C\VentaMayorista\obj\Debug\VentaMayorista.CapaPresentacion.frmArticulos.resources
+D:\Programas\Visual Studio\Proyectos\C\VentaMayorista\obj\Debug\VentaMayorista.CapaPresentacion.frmClientes.resources
+D:\Programas\Visual Studio\Proyectos\C\VentaMayorista\obj\Debug\VentaMayorista.CapaPresentacion.frmConsultaVentas.resources
+D:\Programas\Visual Studio\Proyectos\C\VentaMayorista\obj\Debug\VentaMayorista.frmPrincipal.resources
+D:\Programas\Visual Studio\Proyectos\C\VentaMayorista\obj\Debug\VentaMayorista.CapaPresentacion.frmVentas.resources
+D:\Programas\Visual Studio\Proyectos\C\VentaMayorista\obj\Debug\VentaMayorista.Properties.Resources.resources
+D:\Programas\Visual Studio\Proyectos\C\VentaMayorista\obj\Debug\VentaMayorista.csproj.GenerateResource.cache
+D:\Programas\Visual Studio\Proyectos\C\VentaMayorista\obj\Debug\VentaMayorista.csproj.CoreCompileInputs.cache
+D:\Programas\Visual Studio\Proyectos\C\VentaMayorista\obj\Debug\VentaMayorista.exe
+D:\Programas\Visual Studio\Proyectos\C\VentaMayorista\obj\Debug\VentaMayorista.pdb
+D:\Programas\Visual Studio\Proyectos\C\VentaMayorista\obj\Debug\VentaMayorista.CapaPresentacion.frmLogin.resources
+C:\Users\01\Desktop\VentaMayorista\VentaMayorista\bin\Debug\VentaMayorista.exe.config
+C:\Users\01\Desktop\VentaMayorista\VentaMayorista\bin\Debug\VentaMayorista.exe
+C:\Users\01\Desktop\VentaMayorista\VentaMayorista\bin\Debug\VentaMayorista.pdb
+C:\Users\01\Desktop\VentaMayorista\VentaMayorista\obj\Debug\VentaMayorista.csproj.AssemblyReference.cache
+C:\Users\01\Desktop\VentaMayorista\VentaMayorista\obj\Debug\VentaMayorista.exe.config
+C:\Users\01\Desktop\VentaMayorista\VentaMayorista\obj\Debug\VentaMayorista.CapaPresentacion.frmArticulos.resources
+C:\Users\01\Desktop\VentaMayorista\VentaMayorista\obj\Debug\VentaMayorista.CapaPresentacion.frmClientes.resources
+C:\Users\01\Desktop\VentaMayorista\VentaMayorista\obj\Debug\VentaMayorista.CapaPresentacion.frmConsultaVentas.resources
+C:\Users\01\Desktop\VentaMayorista\VentaMayorista\obj\Debug\VentaMayorista.CapaPresentacion.frmLogin.resources
+C:\Users\01\Desktop\VentaMayorista\VentaMayorista\obj\Debug\VentaMayorista.frmPrincipal.resources
+C:\Users\01\Desktop\VentaMayorista\VentaMayorista\obj\Debug\VentaMayorista.CapaPresentacion.frmVentas.resources
+C:\Users\01\Desktop\VentaMayorista\VentaMayorista\obj\Debug\VentaMayorista.Properties.Resources.resources
+C:\Users\01\Desktop\VentaMayorista\VentaMayorista\obj\Debug\VentaMayorista.csproj.GenerateResource.cache
+C:\Users\01\Desktop\VentaMayorista\VentaMayorista\obj\Debug\VentaMayorista.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\VentaMayorista\VentaMayorista\obj\Debug\VentaMayorista.exe
+C:\Users\01\Desktop\VentaMayorista\VentaMayorista\obj\Debug\VentaMayorista.pdb
